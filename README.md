@@ -18,7 +18,7 @@ This is a **simple tool** to detect and count objects in images, without needing
 Here’s a quick demo of how the tool works.  
 
 
-![Demo](assets/demo.gif)
+![Demo](https://github.com/arif2127/Visual-Object-Instance-Counter/blob/main/demo.gif)
 
 ---
 
