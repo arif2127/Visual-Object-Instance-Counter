@@ -16,9 +16,9 @@ This is a **simple tool** to detect and count objects in images, without needing
 ### 🎬 Demo
 
 Here’s a quick demo of how the tool works.  
-Click on the video below to see it in action:
 
-[Watch the demo](demo.webm)
+
+![Demo](assets/demo.gif)
 
 ---
 
